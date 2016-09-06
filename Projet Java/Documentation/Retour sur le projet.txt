@@ -1,0 +1,11 @@
+Une difficulté majeure rencontrée dans la réalisation de ce projet était de synchroniser nos emplois du temps. Les échéances du projet
+Python, du mémoire et du projet Java sont proches. Il était souvent délicat de parvenir à prioriser nos tâches.
+Nos choix techniques sont partiellement à imputer à ces contingences. 
+
+Pour la connection à la base de données, nous avons créé une classe ConnectionBD. Cette classe est appelée par notre menu, que ce soit
+pour la lecture, la sauvegarde ou la suppression des données. Dans la mesure du possible, nous avons cherché à optimiser notre code, par 
+exemple avec les méthodes de suppression de données, qui permettent, selon les arguments appelés, d'interagir avec les diférentes tables 
+de notre base de données. 
+
+Pour l'interface utilisateur, nous avons créé divers menus textes pour répartir les différentes actions proposées par notre application. 
+ 
